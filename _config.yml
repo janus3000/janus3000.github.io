@@ -15,12 +15,12 @@
 minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "janus blog"
-title_separator          : "-"
+locale                   : "ko-KR"
+title                    : "Janus blog"
+title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "name"
-description              : "Delveloper blog."
+name                     : "Janus"
+description              : "PACS Delveloper blog."
 url                      : "https://janus3000.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"

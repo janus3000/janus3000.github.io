@@ -95,11 +95,11 @@ social:
   links: # An array of links to social media profiles
 
 # Analytics
-analytics:
-  provider               : false # "google-gtag" # false (default), "google", "google-universal", "google-gtag", "custom"
-  google:
-    tracking_id          : "GTM-KQVVST8B"
-    anonymize_ip         : false # true, false (default)
+# analytics:
+#   provider               : false # "google-gtag" # false (default), "google", "google-universal", "google-gtag", "custom"
+#   google:
+#     tracking_id          : "GTM-KQVVST8B"
+#     anonymize_ip         : false # true, false (default)
 
 
 # Site Author
@@ -140,7 +140,7 @@ footer:
       # url:
      - label: "GitHub"
        icon: "fab fa-fw fa-github"
-        url: "https://github.com/janus3000"
+       url: "https://github.com/janus3000"
     # - label: "GitLab"
     #   icon: "fab fa-fw fa-gitlab"
       # url:

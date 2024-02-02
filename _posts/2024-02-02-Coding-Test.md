@@ -2,6 +2,7 @@
 layout: single
 title:  "코딩 테스트 포스트"
 categories : coding
+author_profile : false
 ---
 
 # 코딩테스트

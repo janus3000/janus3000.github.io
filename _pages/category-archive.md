@@ -1,5 +1,5 @@
 ---
-title : "category"
+title : "Category"
 layout : "categories"
 permalink : /categories/
 auto_profile : true
